@@ -2,8 +2,11 @@
 
 ## LINKS:
 Project link:https://github.com/scvnq/Bigdata
+
 Slides:https://docs.google.com/presentation/d/1mgaWAuQ0ZW9BwzCfwUROizDhB8TOmHcCXwPOAGzBmoo/edit?usp=sharing
+
 Report:https://docs.google.com/document/d/1xG3KK312NSgQaPDSO6lrFRS3DC6rS6TLY8pvj3Ml3Os/edit?usp=sharing
+
 WIKI:https://github.com/scvnq/Bigdata/wiki/Final-Project
 
 ## 1 Motivation
